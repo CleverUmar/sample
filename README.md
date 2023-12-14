@@ -1,2 +1,3 @@
 # sample
-Demo Github Repo
+This is my first Github Repository.
+Author: Umar Farooq.
